@@ -67,3 +67,5 @@ Ushbu dastur foydalanuvchining himoyasini ta'minlash uchun yaratilgan va faqat t
 - Yuz aniqlash funksionali OpenCV tomonidan taqdim etilgan Haar xususiyatlarga asoslanadi.
 - EXIF ma'lumotlarini o'chirish funksionali Python Imaging Library (Pillow) orqali amalga oshirilgan.
 
+
+![Sinov][rasm.jpg]
