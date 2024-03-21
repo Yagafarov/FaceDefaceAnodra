@@ -1,0 +1,13 @@
+colorama==0.4.6
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+lazy_loader==0.3
+networkx==3.2.1
+numpy==1.26.4
+opencv-python==4.9.0.80
+packaging==24.0
+pillow==10.2.0
+scikit-image==0.22.0
+setuptools==69.2.0
+tifffile==2024.2.12
+tqdm==4.66.2
