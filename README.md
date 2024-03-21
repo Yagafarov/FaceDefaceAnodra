@@ -1,7 +1,19 @@
-README.md
 # Rasmlardagi Yuzlarni Anonimlashtirish
 
 Rasmlardagi Yuzlarni Anonimlashtirish, OpenCV va Python Imaging Library (Pillow) yordamida yuzlarni blur qilish va EXIF ma'lumotlarini o'chirish uchun Python skripti.
+
+## Modul vazifasi
+
+<table>
+  <tr>
+    <td align="center">Oldin</td>
+    <td align="center">Keyin</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Yagafarov/FaceDefaceAnodra/raw/main/rasm.jpg" alt="Before Image" width="400"/></td>
+    <td><img src="https://github.com/Yagafarov/FaceDefaceAnodra/raw/main/test/defaced_rasm.jpg" alt="After Image" width="400"/></td>
+  </tr>
+</table>
 
 ## Xususiyatlar
 
@@ -68,15 +80,4 @@ Ushbu dastur foydalanuvchining himoyasini ta'minlash uchun yaratilgan va faqat t
 - EXIF ma'lumotlarini o'chirish funksionali Python Imaging Library (Pillow) orqali amalga oshirilgan.
 
 
-## Before and After
 
-<table>
-  <tr>
-    <td align="center">Before</td>
-    <td align="center">After</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Yagafarov/FaceDefaceAnodra/raw/main/rasm.jpg" alt="Before Image" width="400"/></td>
-    <td><img src="https://github.com/Yagafarov/FaceDefaceAnodra/raw/main/test/defaced_rasm.jpg" alt="After Image" width="400"/></td>
-  </tr>
-</table>
