@@ -68,4 +68,4 @@ Ushbu dastur foydalanuvchining himoyasini ta'minlash uchun yaratilgan va faqat t
 - EXIF ma'lumotlarini o'chirish funksionali Python Imaging Library (Pillow) orqali amalga oshirilgan.
 
 
-![Sinov][rasm.jpg]
+![Sinov][https://github.com/Yagafarov/FaceDefaceAnodra/blob/main/rasm.jpg]
